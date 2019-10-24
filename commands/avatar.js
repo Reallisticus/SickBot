@@ -4,7 +4,7 @@ module.exports = {
 	aliases: ['icon', 'pfp'],
 	cooldown: 10,
 	// eslint-disable-next-line no-unused-vars
-	execute(message, args) {
+	execute(client, message, args) {
 		if(args[0]) {
 			// eslint-disable-next-line no-undef
 			const user = getUserFromMention(args[0]);

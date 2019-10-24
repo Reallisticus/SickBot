@@ -1,9 +1,9 @@
 {
     "name": "Sick Individuals",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "desription": "Server management and e-sim functionality !",
     "main": "index.js",
-    "token": "NjM1MjcyNDA2NDc0MjkzMjcw.XaupsA.oU6k8pyuBvGncrxrxqilgmf-Blg",
+    "token": "token",
     "prefix": "!"
     
 

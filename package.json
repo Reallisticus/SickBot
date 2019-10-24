@@ -1,25 +1,27 @@
 {
-  "name": "SickBot",
-  "version": "0.0.2",
-  "description": "Official Sick Individuals e-Sim Bot.",
+  "name": "Sick Individuals",
+  "version": "0.0.3",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Reallist",
+  "keywords": [],
+  "author": "reallist/LSD",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
     "eslint": "^6.5.1",
     "jsdom": "^15.2.0",
-    "komada": "^0.21.1",
     "node-fetch": "^2.6.0",
     "node-superfetch": "^0.1.9",
+    "puppeteer": "^1.20.0",
     "querystring": "^0.2.0",
     "request": "^2.88.0",
-    "snekfetch": "^4.0.4",
-    "winston": "^3.2.1"
+    "request-promise": "^4.2.4",
+    "snekfetch": "^4.0.4"
   }
 }
